@@ -8,7 +8,7 @@ from aiogram import F
 logging.basicConfig(level=logging.INFO)
 
 # Замените YOUR_TOKEN_HERE на ваш токен
-API_TOKEN = '7893696227:AAEzbpd7CmwW-td_jWkgMRgQwURXWf6pyyw'
+API_TOKEN = 'YOUR_TOKEN_HERE'
 
 # Создаем объекты бота и диспетчера с хранилищем состояний
 bot = Bot(token=API_TOKEN)
